@@ -239,7 +239,7 @@ Password: alice123
 - Environment variables for secrets
 - CORS enabled for frontend
 
-## caling Considerations
+## Scaling Considerations
 
 For production-level applications, consider:
 - Add email verification
